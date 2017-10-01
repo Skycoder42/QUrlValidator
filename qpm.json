@@ -1,22 +1,22 @@
 {
-  "name": "de.skycoder42.qurlvalidator",
-  "description": "A class that provides a QValidator to validate urls",
-  "author": {
-    "name": "Skycoder",
-    "email": "skycoder42.de@gmx.de"
-  },
-  "repository": {
-    "type": "GITHUB",
-    "url": "https://github.com/Skycoder42/QUrlValidator.git"
-  },
-  "version": {
-    "label": "1.0.0",
-    "revision": "",
-    "fingerprint": ""
-  },
-  "dependencies": [
-  ],
-  "license": "BSD_3_CLAUSE",
-  "pri_filename": "de_skycoder42_qurlvalidator.pri",
-  "webpage": "https://github.com/Skycoder42/QUrlValidator/tree/master"
+    "author": {
+        "email": "skycoder42.de@gmx.de",
+        "name": "Skycoder"
+    },
+    "dependencies": [
+    ],
+    "description": "A class that provides a QValidator to validate urls",
+    "license": "BSD_3_CLAUSE",
+    "name": "de.skycoder42.qurlvalidator",
+    "pri_filename": "de_skycoder42_qurlvalidator.pri",
+    "repository": {
+        "type": "GITHUB",
+        "url": "https://github.com/Skycoder42/QUrlValidator.git"
+    },
+    "version": {
+        "fingerprint": "",
+        "label": "1.1.0",
+        "revision": ""
+    },
+    "webpage": "https://github.com/Skycoder42/QUrlValidator"
 }
