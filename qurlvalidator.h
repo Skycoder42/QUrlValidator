@@ -4,7 +4,7 @@
 #include <QValidator>
 #include <QStringList>
 
-class QUrlValidator : public QValidator
+class Q_URL_VALIDATOR_EXPORT QUrlValidator : public QValidator
 {
 	Q_OBJECT
 

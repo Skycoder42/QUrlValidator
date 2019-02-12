@@ -6,7 +6,7 @@
 QUrlValidator::QUrlValidator(QStringList allowedSchemes, QObject *parent) :
 	QUrlValidator(parent)
 {
-	this->setAllowedSchemes(allowedSchemes);
+	setAllowedSchemes(allowedSchemes);
 }
 
 QUrlValidator::QUrlValidator(QObject *parent) :
